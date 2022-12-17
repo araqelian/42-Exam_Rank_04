@@ -24,12 +24,12 @@ Write a program that will behave like executing a shell command
 </ul><br>
 <b>for example this should work:</b>
 <p>
-$>./microshell /bin/ls "|" /usr/bin/grep microshell ";" /bin/echo i love my microshell<br>
+$>./microshell&nbsp; /bin/ls&nbsp; "|" &nbsp;/usr/bin/grep &nbsp;microshell &nbsp;";" &nbsp;/bin/echo &nbsp;i love my microshell<br>
 microshell<br>
 i love my microshell<br>
 </p>
 <p>
-$>./microshell /bin/echo i love 42 "|" "/usr/bin/grep" i ";" ";" ";" "/bin/echo" YEAH<br>
+$>./microshell &nbsp;/bin/echo &nbsp;i love 42 &nbsp;"|" &nbsp;"/usr/bin/grep" &nbsp;i &nbsp;";" &nbsp;";" &nbsp;";" &nbsp;"/bin/echo" YEAH<br>
 i love 42<br>
 YEAH
 </p>
