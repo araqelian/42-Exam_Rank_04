@@ -2,7 +2,7 @@
 <p>
 Assignment name: &nbsp;&nbsp;&nbsp;microshell<br>
 Expected files: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;microshell.c<br>
-Allowed functions: &nbsp;&nbsp;&nbsp;malloc, free, write, close, fork, waitpid, signal, kill, exit, chdir, execve, dup, dup2, pipe, strcmp, strncmp<br>
+Allowed functions: &nbsp;&nbsp;&nbsp;malloc, &nbsp;free, &nbsp;write,&nbsp; close, &nbsp;fork, &nbsp;waitpid, &nbsp;signal, &nbsp;kill, &nbsp;exit, &nbsp;chdir, &nbsp;execve, &nbsp;dup, &nbsp;dup2, &nbsp;pipe,&nbsp; strcmp,&nbsp; strncmp<br>
 ____________________________________________________________________________________________________________
 </p>
 <p>
